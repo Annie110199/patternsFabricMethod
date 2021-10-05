@@ -1,3 +1,5 @@
+package Fabric;
+
 public class Dialog {
 
     public static int[] sortArray(int[] arr, SortTypes type){
